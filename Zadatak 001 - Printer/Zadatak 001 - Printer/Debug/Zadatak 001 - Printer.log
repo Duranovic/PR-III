@@ -1,0 +1,29 @@
+﻿  Zadatak 001 - Printer.cpp
+c:\users\hp\desktop\private\c++\pr-iii\zadatak 001 - printer\zadatak 001 - printer\zadatak 001 - printer.cpp(353): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\desktop\private\c++\pr-iii\zadatak 001 - printer\zadatak 001 - printer\zadatak 001 - printer.cpp(384): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\hp\desktop\private\c++\pr-iii\zadatak 001 - printer\zadatak 001 - printer\zadatak 001 - printer.cpp(429): warning C4566: character represented by universal-character-name '\u0106' cannot be represented in the current code page (1252)
+c:\users\hp\desktop\private\c++\pr-iii\zadatak 001 - printer\zadatak 001 - printer\zadatak 001 - printer.cpp(432): warning C4566: character represented by universal-character-name '\u0110' cannot be represented in the current code page (1252)
+c:\users\hp\desktop\private\c++\pr-iii\zadatak 001 - printer\zadatak 001 - printer\zadatak 001 - printer.cpp(163): warning C4018: '<': signed/unsigned mismatch
+  c:\users\hp\desktop\private\c++\pr-iii\zadatak 001 - printer\zadatak 001 - printer\zadatak 001 - printer.cpp(161): note: while compiling class template member function 'FITKolekcija<int,int> *FITKolekcija<int,int>::GetJedinstveni(void)'
+  c:\users\hp\desktop\private\c++\pr-iii\zadatak 001 - printer\zadatak 001 - printer\zadatak 001 - printer.cpp(422): note: see reference to function template instantiation 'FITKolekcija<int,int> *FITKolekcija<int,int>::GetJedinstveni(void)' being compiled
+  c:\users\hp\desktop\private\c++\pr-iii\zadatak 001 - printer\zadatak 001 - printer\zadatak 001 - printer.cpp(404): note: see reference to class template instantiation 'FITKolekcija<int,int>' being compiled
+c:\users\hp\desktop\private\c++\pr-iii\zadatak 001 - printer\zadatak 001 - printer\zadatak 001 - printer.cpp(165): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\desktop\private\c++\pr-iii\zadatak 001 - printer\zadatak 001 - printer\zadatak 001 - printer.cpp(141): warning C4018: '<': signed/unsigned mismatch
+  c:\users\hp\desktop\private\c++\pr-iii\zadatak 001 - printer\zadatak 001 - printer\zadatak 001 - printer.cpp(140): note: while compiling class template member function 'void FITKolekcija<int,int>::Sortiraj(void)'
+  c:\users\hp\desktop\private\c++\pr-iii\zadatak 001 - printer\zadatak 001 - printer\zadatak 001 - printer.cpp(414): note: see reference to function template instantiation 'void FITKolekcija<int,int>::Sortiraj(void)' being compiled
+c:\users\hp\desktop\private\c++\pr-iii\zadatak 001 - printer\zadatak 001 - printer\zadatak 001 - printer.cpp(113): warning C4018: '<': signed/unsigned mismatch
+  c:\users\hp\desktop\private\c++\pr-iii\zadatak 001 - printer\zadatak 001 - printer\zadatak 001 - printer.cpp(110): note: while compiling class template member function 'void FITKolekcija<int,int>::Dodaj(const T1 &,const T2 &)'
+          with
+          [
+              T1=int,
+              T2=int
+          ]
+  c:\users\hp\desktop\private\c++\pr-iii\zadatak 001 - printer\zadatak 001 - printer\zadatak 001 - printer.cpp(405): note: see reference to function template instantiation 'void FITKolekcija<int,int>::Dodaj(const T1 &,const T2 &)' being compiled
+          with
+          [
+              T1=int,
+              T2=int
+          ]
+c:\users\hp\desktop\private\c++\pr-iii\zadatak 001 - printer\zadatak 001 - printer\zadatak 001 - printer.cpp(103): warning C4018: '<': signed/unsigned mismatch
+  c:\users\hp\desktop\private\c++\pr-iii\zadatak 001 - printer\zadatak 001 - printer\zadatak 001 - printer.cpp(102): note: while compiling class template member function 'std::ostream &operator <<(std::ostream &,const FITKolekcija<int,int> &)'
+  Zadatak 001 - Printer.vcxproj -> C:\Users\HP\Desktop\Private\C++\PR-III\Zadatak 001 - Printer\Debug\Zadatak 001 - Printer.exe
